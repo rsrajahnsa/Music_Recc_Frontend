@@ -1,0 +1,8 @@
+{
+    "name": "mood-based-music-recommendation-frontend",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "echo 'No build needed' && exit 0"
+    }
+  }
+  
