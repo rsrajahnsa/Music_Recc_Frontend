@@ -1,0 +1,3 @@
+[build]
+  publish = "Music_Recc_Frontend"
+  command = "npm run build"
