@@ -1,3 +1,4 @@
+const apiUrl= 'https://musicsysbackend-5w2rfrynk-rutams-projects-23ed9584.vercel.app/';
 function getRecommendations() {
     const mood = document.getElementById('mood').value;
 
